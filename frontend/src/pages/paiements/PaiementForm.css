@@ -1,0 +1,29 @@
+.paiement-form {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.paiement-form h1 {
+  margin-bottom: 20px;
+  color: #0d6efd;
+}
+
+.paiement-form .card {
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  border: none;
+  margin-bottom: 20px;
+}
+
+.paiement-form .form-label {
+  font-weight: 500;
+}
+
+.paiement-form .alert {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.paiement-form .btn {
+  min-width: 120px;
+}
